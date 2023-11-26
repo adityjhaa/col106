@@ -1,0 +1,191 @@
+190
+push -14
+push -3
+push -3
+push 5
+push -11
+push -13
+push -1
+push -15
+push 1
+push 14
+push -8
+push -15
+push -13
+push -10
+push 14
+push 11
+push 11
+push 4
+push 1
+push 14
+push -3
+push 11
+push 5
+push -4
+push 2
+push 13
+push -13
+push -3
+push -15
+push -8
+push 10
+push 3
+push 6
+push -7
+push 9
+push -2
+push 3
+push -12
+push 6
+push -7
+push 5
+push 2
+push 13
+push -12
+push 4
+push 0
+push 14
+push -6
+push -11
+push 11
+push -6
+push 13
+push -6
+push -7
+push 1
+push -13
+push -11
+push -8
+push 7
+push -5
+push -12
+push 9
+push -15
+push -2
+push 14
+push 8
+push 1
+push -6
+push -10
+push 1
+push 5
+push -10
+push 0
+push 5
+push -5
+push 1
+push -1
+push 12
+push 6
+push 15
+push -5
+push 1
+push -5
+push -13
+push -15
+push 14
+push 5
+push 15
+push -12
+push 0
+push 13
+push 0
+push -7
+push 14
+push 0
+push -7
+push 3
+push -7
+push 13
+push 7
+get_element_from_top 86
+get_element_from_bottom 86
+get_element_from_top 21
+get_element_from_bottom 21
+get_element_from_top 87
+get_element_from_bottom 87
+get_element_from_top 23
+get_element_from_bottom 23
+get_element_from_top 23
+get_element_from_bottom 23
+get_element_from_top 65
+get_element_from_bottom 65
+get_element_from_top 36
+get_element_from_bottom 36
+get_element_from_top 53
+get_element_from_bottom 53
+get_element_from_top 85
+get_element_from_bottom 85
+get_element_from_top 28
+get_element_from_bottom 28
+subtract
+pop
+multiply
+pop
+pop
+multiply
+pop
+pop
+pop
+multiply
+pop
+multiply
+multiply
+pop
+subtract
+subtract
+multiply
+pop
+multiply
+add
+subtract
+add
+multiply
+pop
+add
+pop
+pop
+multiply
+pop
+pop
+add
+pop
+add
+subtract
+pop
+pop
+pop
+multiply
+multiply
+pop
+pop
+subtract
+subtract
+pop
+pop
+add
+multiply
+add
+subtract
+pop
+get_element_from_top 36
+get_element_from_bottom 36
+get_element_from_top 30
+get_element_from_bottom 30
+get_element_from_top 0
+get_element_from_bottom 0
+get_element_from_top 9
+get_element_from_bottom 9
+get_element_from_top 27
+get_element_from_bottom 27
+get_element_from_top 4
+get_element_from_bottom 4
+get_element_from_top 24
+get_element_from_bottom 24
+get_element_from_top 15
+get_element_from_bottom 15
+get_element_from_top 48
+get_element_from_bottom 48
+get_element_from_top 18
+get_element_from_bottom 18
