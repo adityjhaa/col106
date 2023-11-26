@@ -1,0 +1,42 @@
+41
+push 9
+push -6
+push 9
+push 13
+push 4
+push -15
+push 13
+push -5
+push -5
+push -15
+add
+add
+add
+pop
+pop
+subtract
+subtract
+push 0
+push 9
+push -1
+push 5
+push -12
+push -4
+push 0
+push 15
+push 9
+push 0
+multiply
+multiply
+multiply
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
+pop
