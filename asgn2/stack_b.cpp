@@ -129,7 +129,7 @@ int Stack_B::divide(){
     int t1 = Stack_B::pop();
     int t2 = Stack_B::pop();
     int t =t2/t1;
-    if(t1*t2<0 && t1%t2!=0){
+    if(t1*t2<0 && t2%t1!=0){
         t--;
     }
     Stack_B::push(t);
