@@ -121,7 +121,7 @@ int Stack_C::divide(){
     int t1 = Stack_C::pop();
     int t2 = Stack_C::pop();
     int t =t2/t1;
-    if(t1*t2<0 && t1%t2!=0){
+    if(t1*t2<0 && t2%t1!=0){
         t--;
     }
     Stack_C::push(t);
