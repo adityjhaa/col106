@@ -1,6 +1,6 @@
 #include "ulimitedrational.h"
 
-bool gebreater(UnlimitedInt* i1, UnlimitedInt* i2){
+bool grtr(UnlimitedInt* i1, UnlimitedInt* i2){
     int size1 = i1->get_size();
     int size2 = i2->get_size();
     int sign1 = i1->get_sign();
@@ -57,7 +57,7 @@ UnlimitedInt* gcd(UnlimitedInt* i1, UnlimitedInt* i2){
         return n;
     }else{
         UnlimitedInt* p = new UnlimitedInt(0);
-        if(gebreater(m,n) == true){
+        if(grtr(m,n) == true){
             p = gcd(p->mod(m,n),n);
             return p;
         }else{
