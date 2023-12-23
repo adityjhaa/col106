@@ -1,0 +1,9 @@
+mem[2] = POP
+ADD
+PUSH 10
+
+DEL = mem[42]
+MUL
+
+
+ADD
